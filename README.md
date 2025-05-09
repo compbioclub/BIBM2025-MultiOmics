@@ -31,7 +31,7 @@ Topics of interest include, but are not limited to:
 
 ## Workshop Style  
 
-**Hybrid.** We will host the workshop in a hybrid format, allowing both in-person and virtual participation. Organizers will set up and manage a virtual platform (e.g., Zoom or Tencent Meeting) for remote speakers and attendees.
+**Hybrid.** We will host the workshop in a hybrid format, allowing both in-person and virtual (Zoom or Tencent Meeting) participation. 
 
 ---
 
