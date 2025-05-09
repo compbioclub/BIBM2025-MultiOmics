@@ -1,0 +1,8 @@
+*pyc
+*.gz
+.DS_Store
+*.html
+.vscode
+out
+build
+*.egg-info
